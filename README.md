@@ -2,4 +2,4 @@
 
 These projects were done while I was learning React JS.
 
-React Tutorial: https://youtu.be/iZhV0bILFb0
+React Tutorial Projects video: https://www.youtube.com/watch?v=a_7Z7C_JCyo&t=8067s
